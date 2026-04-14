@@ -18,9 +18,11 @@ torchaudio
 matplotlib
 seaborn
 plotly
+IPython
 
 # Utilities and Environment
 jupyter
+ipykernel
 tqdm
 requests
 
